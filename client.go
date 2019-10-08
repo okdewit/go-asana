@@ -1,4 +1,4 @@
-package go_asana
+package asana
 
 import (
 	"encoding/json"
